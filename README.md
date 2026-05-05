@@ -37,7 +37,7 @@ O projeto possui 5 páginas:
 
 ## Acesse o site
 
-https://seuusuario.github.io/landing-page/
+https://LeonS7.github.io/landing-page/
 
 *(substitua "seuusuario" pelo seu usuário do GitHub)*
 
